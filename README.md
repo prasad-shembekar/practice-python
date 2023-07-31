@@ -29,7 +29,7 @@ So far, I have pushed answers of the following Questions you can refer solutions
 | [Write a Python program to display the current date and time.]() | [Solution]() |
 
 
- [above questions are taken from this website refer this &copy; website for more such questions...](https://www.w3resource.com/python-exercises/)
+ above questions are taken from this website refer this &copy; [Website](https://www.w3resource.com/python-exercises/) for more such questions...
 
 
 # If you like the project:
