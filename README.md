@@ -28,8 +28,8 @@ So far, I have pushed answers of the following Questions you can refer solutions
 | [Write a Python program to find out what version of Python you are using.]() | [Solution]() |
 | [Write a Python program to display the current date and time.]() | [Solution]() |
 | [Write a Python program that accepts an integer (n) and computes the value of n+nn+nnn]() | [Solution]() |
-| [Write a Python program to display the first and last colors from the following list.
-]() | [Solution]() |
+| [Write a Python program to display the first and last colors from the following list]() | [Solution]() |
+
 
 
 
