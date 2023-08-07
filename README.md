@@ -15,8 +15,7 @@
 ## What is this repo?
 Hello Python enthusiasts and learners! If you are passionate about Python programming and eager to strengthen your skills, you've come to the right place. Welcome to my daily practice repository! This repository is a dedicated space for Python enthusiasts to improve their programming skills by solving Python-related questions and exercises on a daily basis. I like to share daily solutions which i try to practice everyday. 
 
-Hope it will help you to explore new concepts, and interact gain more skills in python language.
-Happy Coding :)
+Hope it will help you to explore new concepts, and interact gain more skills in python language. Happy Coding :)
 
 
 ## What do we have:
