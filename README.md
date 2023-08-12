@@ -32,7 +32,7 @@ So far, I have pushed answers of the following Questions you can refer solutions
 | [6. Write a Python program that accepts a sequence of comma-separated numbers from the user and generates a list and a tuple of those numbers. ](https://github.com/prasad-shembekar/practice-python/blob/master/Basics/ex6.py) | [Solution](https://github.com/prasad-shembekar/practice-python/blob/master/Basics/ex6.py) |
 | [7. Write a Python program that accepts a filename from the user and prints the extension of the file. ](https://github.com/prasad-shembekar/practice-python/blob/master/Basics/ex7.py) | [Solution](https://github.com/prasad-shembekar/practice-python/blob/master/Basics/ex7.py) |
 | [8. Write a Python program to display the first and last colors from the following list](https://github.com/prasad-shembekar/practice-python/blob/master/Basics/ex8.py) | [Solution](https://github.com/prasad-shembekar/practice-python/blob/master/Basics/ex8.py) |
-| [9. Write a Python program that accepts an integer (n) and computes the value of n+nn+nnn]() | [Solution]() |
+| [9. Write a Python program that accepts an integer (n) and computes the value of n+nn+nnn](https://github.com/prasad-shembekar/practice-python/blob/master/Basics/ex9.py) | [Solution]() |
 | [10. Write a Python program to display the first and last colors from the following list]() | [Solution]() |
 
 
