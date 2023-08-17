@@ -1,13 +1,15 @@
-def longest_common(str1):
+def prefix(str1):
     if not str1:
         return ""
+    
+    short_char = min(str1,key=len)
 
-    short_str = min(str1,key=len)
+    for i,char in enumerate(short_char):
+        for others in short_char:
+            if others[i]!= char:
+                return short_char[:i]
 
-    for i, char in enumerate(short_str):
-        for other in str1:
-            if other[i] != char:
-                return short_str[:i]
-    return short_str
+    return short_char
 
-print(longest_common(["abcdefgh","abcdefghi"]))
+print(prefix(["abcdefg",'abcddfsfs']))
+

@@ -1,15 +1,16 @@
-def reverse_vowels(str1):
+def reverse_vowel(str1):
     vowels = ""
     for char in str1:
         if char in "aeiouAEIOU":
             vowels += char
-    result_string = ""
+    result = ""
+
     for char in str1:
         if char in "aeiouAEIOU":
-            result_string += vowels[-1]
+            result += vowels[-1]
             vowels = vowels[:-1]
         else:
-            result_string += char
-    return result_string
+            result += char
+    return result
 
-print(reverse_vowels("w3resource"))
+print(reverse_vowel("Hello Prasad"))
