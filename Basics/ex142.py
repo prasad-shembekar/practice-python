@@ -7,3 +7,4 @@ def test(str):
 
 str = "0101010101"
 print(test(str))
+
