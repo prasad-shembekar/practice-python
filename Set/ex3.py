@@ -1,0 +1,5 @@
+color = set()
+color.add("Red")
+print(color)
+color.update(["Blue","Green"])
+print(color)
