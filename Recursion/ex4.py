@@ -1,7 +1,7 @@
-def recursive(n):
+def recursive_facto(n):
     if n <=1:
         return 1
     else:
-        return n * (factorial(n-1))
+        return n * (recursive_facto(n-1))
     
-print(factorial(5))
+print(recursive_facto(5))
