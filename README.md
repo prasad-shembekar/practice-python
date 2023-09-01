@@ -42,7 +42,7 @@ So far, I have pushed answers of the following Questions you can refer solutions
 
 
 # If you like the project:
-- Star this Repo - [Practice python](https://github.com/prasad-shembekar/practice-python)
+- Star this Repo ⭐ - [Practice python](https://github.com/prasad-shembekar/practice-python)
 
 - Follow me on GitHub - [Prasad Shembekar](https://github.com/prasad-shembekar)
 
